@@ -1,6 +1,6 @@
 # A good start
 
-An opinionated repository that focuses on "best practices" designed to ensure clear and consistent documentation, scalability of the codebase/structure and overall project. All decisions are documented in detail within `docs/decisions`.
+An opinionated repository structure that focuses on "best practices" designed to ensure clear and consistent documentation, scalability of the codebase/structure and overall project. All decisions are documented in detail within `docs/decisions`.
 
 ## Description
 
